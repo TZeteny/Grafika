@@ -1,0 +1,1 @@
+objects/sky.obj objects/grass.obj objects/house.obj objects/raptor.obj objects/grandfatherclock.obj objects/pendulum.obj objects/hour_hand.obj
