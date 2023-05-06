@@ -7,6 +7,7 @@ Kint egy forgó raptor található.
 A progrma zenét játszik futás közben.
 
 F1-el lehet megnyitni a segítséget.
+
 Irányítás:
 Mozgás: W, A, S, D
 Körültekintés: Egér mozgatása
