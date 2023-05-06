@@ -1,0 +1,1 @@
+textures/sky.png textures/grass.png textures/house.jpg textures/raptor.png textures/help.jpg textures/grandfatherclock.bmp textures/pendulum.png textures/hand.png
