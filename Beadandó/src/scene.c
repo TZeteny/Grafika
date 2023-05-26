@@ -14,7 +14,7 @@ void object_reader(Scene* scene) {
     int i = 0;
     FILE *fp;
     char str[10000];
-    char* filename = "objects/objloader.txt";
+    char* filename = "assets/objects/objloader.txt";
     char name[2000];
     char *names;
     fp = fopen(filename, "r");
@@ -40,7 +40,7 @@ void texture_reader(Scene* scene) {
     int i = 0;
     FILE *fp;
     char str[10000];
-    char* filename = "textures/texturesloader.txt";
+    char* filename = "assets/textures/texturesloader.txt";
     char name[2000];
     char *names;
     fp = fopen(filename, "r");
